@@ -4,11 +4,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Web Developer** who enjoys turning ideas into real-world web applications.
+I'm currently learning **Full-Stack AI Web Development** as a student through **Programming Hero**. I'm passionate about web development and enjoy building real-world projects while learning modern technologies.
 
-I've built projects using **HTML, CSS, JavaScript, ES6+, TypeScript, Tailwind CSS, React, Next.js, and Authentication**. I continue to improve my skills by building practical projects and exploring modern web technologies.
-
-I enjoy solving problems, creating responsive and user-friendly interfaces, and writing clean and maintainable code. I'm always learning, experimenting, and looking for opportunities to grow as a developer. 🚀
+I'm continuously improving my programming and problem-solving skills and exploring new tools and technologies to grow as a professional web developer. 🚀
 
 ## 🚀 Current Activities
 
