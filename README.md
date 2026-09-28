@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharmin Akter</h1>
 
-<h3 align="center">A passionate Full-Stack Web Developer from Bangladesh 🇧🇩</h3>
-
-## 👨‍💻 About Me
-
 I'm currently learning **Full-Stack AI Web Development** as a student through **Programming Hero**. I'm passionate about web development and enjoy building real-world projects while learning modern technologies.
-
 I'm continuously improving my programming and problem-solving skills and exploring new tools and technologies to grow as a professional web developer. 🚀
 
 ## 🚀 Current Activities
